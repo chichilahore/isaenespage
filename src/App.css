@@ -1,0 +1,26 @@
+body {
+  overflow: hidden;
+  color: white;
+  background-color: #000000;
+}
+
+
+/* footer{
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  bottom: -5%;
+  left: 0;
+  width: 100vw;
+} */
+
+a{
+  text-decoration: none;
+}
+
+:root p{
+  margin-left: unset;
+  opacity: unset;
+
+}
